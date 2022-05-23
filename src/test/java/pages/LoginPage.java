@@ -27,4 +27,4 @@ public class LoginPage
 			loginNext.click();
 			Thread.sleep(5000);
 		}
-	}
+}
