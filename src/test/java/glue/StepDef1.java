@@ -40,6 +40,7 @@ import io.cucumber.java.en.When;
 		    else
 		    {
 		    	System.out.println("Compose is not displayed");
+			System.out.println("hello");
 		    	System.exit(0); //0 means forcibly
 		    }
 		}
